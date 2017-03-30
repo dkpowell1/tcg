@@ -1,0 +1,30 @@
+/**
+ * Created by danie on 3/29/2017.
+ */
+public enum Type {
+    AQUA,
+    BEAST,
+    BEAST_WARRIOR,
+    CREATOR_GOD,
+    CYVERSE,
+    DINOSAUR,
+    DIVINE_BEAST,
+    DRAGON,
+    FAIRY,
+    FIEND,
+    FISH,
+    INSECT,
+    MACHINE,
+    PLANT,
+    PSYCHIC,
+    PYRO,
+    REPTILE,
+    ROCK,
+    SEA_SERPENT,
+    SPELLCASTER,
+    THUNDER,
+    WARRIOR,
+    WINGED_BEAST,
+    WRYM,
+    ZOMBIE
+}
